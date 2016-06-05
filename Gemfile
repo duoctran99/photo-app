@@ -15,7 +15,6 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 group :development, :test do
   gem 'byebug'
   gem 'sqlite3'
-
 end
 
 group :development do
@@ -26,6 +25,7 @@ group :development do
 end
 
 
-# 1- remove cache key
-# 2- agent
-# 3- add relia key
+gem 'devise'
+gem 'twitter-bootstrap-rails'
+gem 'devise-bootstrap-views'
+
