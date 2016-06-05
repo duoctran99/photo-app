@@ -29,6 +29,3 @@ end
 # 1- remove cache key
 # 2- agent
 # 3- add relia key
-ssh-add -D
-ssh-agent
-ssh-add ~luc/.ssh/ssh_relia/relia1
